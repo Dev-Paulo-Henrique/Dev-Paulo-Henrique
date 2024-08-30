@@ -1,12 +1,12 @@
-## Olá! Eu sou Dev Front-End, Paulo Henrique! 😀
+## Olá! Eu sou Dev Full-Stack, Paulo Henrique! 😀
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
 ## Produtividade:
 
 <div align="center">
   <a href="https://github.com/Dev-Paulo-Henrique">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dev-Paulo-Henrique&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_color=0e6&title_color=0e6&icon_color=0e6"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Paulo-Henrique&layout=compact&langs_count=10&theme=midnight-purple&border_color=0e6&title_color=0e6&icon_color=0e6"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dev-Paulo-Henrique&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_color=0e6&title_color=0e6&icon_color=0e6&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Paulo-Henrique&layout=compact&langs_count=10&theme=midnight-purple&border_color=0e6&title_color=0e6&icon_color=0e6&locale=pt-br"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Paulo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
